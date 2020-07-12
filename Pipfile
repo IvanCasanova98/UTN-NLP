@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pypdf2 = "*"
+boto3 = "*"
+textract = "*"
+pdftotext = "*"
+docx = "*"
+document = "*"
+fulltext = "*"
+constants = "*"
+unidecode = "*"
+matcher = "*"
+easygui = "*"
+jupyter = "*"
+
+[requires]
+python_version = "3.7"
